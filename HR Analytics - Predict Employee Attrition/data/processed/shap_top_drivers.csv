@@ -1,0 +1,49 @@
+Feature,Mean_Absolute_SHAP,Category
+Works OverTime,0.048,Burnout & Work-Life Balance
+StockOptionLevel,0.0344,Compensation & Equity
+MonthlyIncome,0.0326,Compensation & Equity
+Age,0.0319,Demographics / Personal
+SatisfactionScoreAvg,0.0288,Engagement & Culture
+TotalWorkingYears,0.025,Career Growth & Tenure
+YearsAtCompany,0.024,Career Growth & Tenure
+YearsWithCurrManager,0.0234,Career Growth & Tenure
+JobLevel,0.0214,Career Growth & Tenure
+DistanceFromHome,0.0148,Commute & Mobility
+NumCompaniesWorked,0.0142,Demographics / Personal
+Marital: Single,0.0135,Demographics / Personal
+YearsInCurrentRole,0.013,Career Growth & Tenure
+EnvironmentSatisfaction,0.0116,Engagement & Culture
+DailyRate,0.0112,Compensation & Equity
+Dept: Research & Development,0.0105,Demographics / Personal
+IncomePerWorkingYear,0.0097,Compensation & Equity
+JobSatisfaction,0.0095,Engagement & Culture
+Dept: Sales,0.0091,Demographics / Personal
+Travel: Travel_Frequently,0.0088,Commute & Mobility
+PromotionRatio,0.0086,Career Growth & Tenure
+WorkLifeBalance,0.0079,Burnout & Work-Life Balance
+Role: Laboratory Technician,0.0073,Career Growth & Tenure
+PercentSalaryHike,0.0072,Compensation & Equity
+MonthlyRate,0.0067,Compensation & Equity
+Role: Sales Executive,0.0065,Career Growth & Tenure
+HourlyRate,0.0061,Compensation & Equity
+JobInvolvement,0.006,Engagement & Culture
+RelationshipSatisfaction,0.0059,Engagement & Culture
+Role: Research Scientist,0.0057,Career Growth & Tenure
+Marital: Married,0.0057,Demographics / Personal
+YearsSinceLastPromotion,0.0039,Career Growth & Tenure
+TrainingTimesLastYear,0.0038,Demographics / Personal
+YearsWithoutPromotion,0.0033,Career Growth & Tenure
+Education,0.0031,Demographics / Personal
+Gender: Male,0.0028,Demographics / Personal
+Role: Sales Representative,0.0026,Career Growth & Tenure
+Travel: Travel_Rarely,0.0024,Commute & Mobility
+Edu: Marketing,0.0021,Demographics / Personal
+Edu: Medical,0.0021,Demographics / Personal
+Role: Manufacturing Director,0.0012,Career Growth & Tenure
+Edu: Life Sciences,0.0012,Demographics / Personal
+Role: Research Director,0.0011,Career Growth & Tenure
+Role: Manager,0.001,Career Growth & Tenure
+Edu: Technical Degree,0.0006,Demographics / Personal
+PerformanceRating,0.0005,Demographics / Personal
+Role: Human Resources,0.0003,Career Growth & Tenure
+Edu: Other,0.0002,Demographics / Personal

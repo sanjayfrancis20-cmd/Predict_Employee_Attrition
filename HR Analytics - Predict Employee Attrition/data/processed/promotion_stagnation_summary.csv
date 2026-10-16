@@ -1,0 +1,4 @@
+PromotionStagnation,Total_Employees,Attrition_Count,Attrition_Rate_Pct,Avg_Monthly_Income,Avg_Years_Since_Promotion
+Moderate (2-4 yrs),272,41,15.07,6912.36,2.64
+Recent (0-1 yr),938,159,16.95,5677.35,0.38
+Stagnant (>=5 yrs),260,37,14.23,9053.04,8.23

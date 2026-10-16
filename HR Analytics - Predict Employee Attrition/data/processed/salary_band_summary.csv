@@ -1,0 +1,5 @@
+SalaryBand,Total_Employees,Attrition_Count,Attrition_Rate_Pct,Avg_Monthly_Income,Avg_Age
+Entry (<$3.5K),472,128,27.12,2536.38,32.6
+Mid-Level ($3.5K-$7K),563,62,11.01,5110.52,36.1
+Senior ($7K-$12K),240,36,15.0,9361.86,39.3
+Executive ($12K+),195,11,5.64,16605.5,46.7
